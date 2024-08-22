@@ -8,8 +8,8 @@ In the evolving landscape of cyber threats, robust network security is crucial. 
 
 - **NSL-KDD**: A refined version of the KDD'99 dataset, addressing issues like redundant records and biases, making it a reliable benchmark for evaluating IDS models.
 
-  ![NSL-KDD Test Dataset](https://github.com/Mugeshcybersecurity/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/nsl-kdd/KDDTest1.jpg)
-  ![NSL-KDD Train Dataset](https://github.com/Mugeshcybersecurity/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/nsl-kdd/KDDTrain1.jpg)
+  ![NSL-KDD Test Dataset](https://github.com/Mugeshcybersecurity/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/Dataset/nsl-kdd/KDDTest1.jpg)
+  ![NSL-KDD Train Dataset](https://github.com/Mugeshcybersecurity/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/Dataset/nsl-kdd/KDDTrain1.jpg)
 
 - **UNSW-NB 15**: Provides a blend of real and synthetic attack data, offering a complex environment for testing modern IDS models.
 
@@ -75,7 +75,7 @@ For binary classification (Normal vs. Attack):
   - Testing Accuracy: 99.45%
   - Precision, Recall, and F1 Scores indicate a well-balanced model.
 
-  ![Binary Classification Output](https://github.com/Mugeshcybersecurity/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/nsl-kdd/output.png)
+  ![Binary Classification Output](https://github.com/Mugeshcybersecurity/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/Dataset/nsl-kdd/output.png)
 
 #### Multiclass Classification
 
@@ -85,7 +85,7 @@ For multiclass classification (Normal, DoS, R2L, Probe, U2R):
 - **Performance Metrics**:
   - Similar high performance in precision, recall, and F1 scores.
 
-  ![Multiclass Classification Output](https://github.com/Mugeshcybersecurity/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/nsl-kdd/output2.png)
+  ![Multiclass Classification Output](https://github.com/Mugeshcybersecurity/Network-Intrusion-Detection-System-Using-Machine-Learning/blob/main/Dataset/nsl-kdd/output2.png)
 
   **Classification Report**
 
